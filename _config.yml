@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://lzsc123.github.com/sc
+author: 石聪
+pygments: true
+
